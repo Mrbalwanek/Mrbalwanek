@@ -48,6 +48,29 @@ I build small projects to actually understand how things work.
 </a>
 </p>
 
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━</p>
+
+<p align="center">
+  <b>👁️ its.all.a.lie</b><br>
+  Experimental browser game
+</p>
+
+<p align="center">
+  A simple arcade experience that gradually transforms into something unexpected. 
+</p> 
+<p align="center"> 
+  Built with HTML, CSS and JavaScript 
+</p> 
+
+<p align="center"> 
+  <a href="https://github.com/Mrbalwanek/its.all.a.lie"> 
+    <img src="https://img.shields.io/badge/▶%20VIEW%20PROJECT-1d4ed8?style=for-the-badge&logo=github&logoColor=white" /> 
+  </a> 
+  <a href="https://mrbalwanek.github.io/its.all.a.lie/"> 
+    <img src="https://img.shields.io/badge/🎮%20PLAY%20ONLINE-8b5cf6?style=for-the-badge&logo=githubpages&logoColor=white" /> 
+  </a> 
+</p>
+
 ---
 
 ### 🌐 Web projects
